@@ -1,0 +1,31 @@
+.contactform tr{
+    height:7rem;
+}
+.contactform th{
+    text-align: right;
+    width: 150px;
+    padding-right: 15px;
+}
+
+input[type="text"]{
+    width: 480px;
+}
+
+#check{
+    text-align:left;
+}
+
+.submit_button {
+   text-align: left;
+   background-color: #E72B2B; 
+   color: #fff;
+   border-bottom-style: none;
+}
+
+.submit_button:hover {
+    opacity: 0.6;
+}
+
+.button_position {
+  text-align: center;
+}
